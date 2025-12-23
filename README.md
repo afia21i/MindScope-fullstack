@@ -1,4 +1,4 @@
-# 3.2_project-_MindScope
+# MindScope_Full-stack
 
 # MindScope – Smart Mental Health Screening Platform
 MindScope is a mental-health awareness and self-assessment web platform designed to help users understand their emotional well-being through simple screenings, mood tracking, and supportive resources. The system focuses on accessibility, early detection, and stigma-free self-care.
@@ -67,8 +67,4 @@ MindScope is a mental-health awareness and self-assessment web platform designed
 * User workflow executed smoothly end-to-end
 * No major errors encountered
 * Visual screenshots captured for verification
-  # Contributors
 
-* Labiba Akram Pritha – 22201237
-* Afia Mahmud Roshni – 22201238
-* Kamrun Nahar Konika – 22201241
